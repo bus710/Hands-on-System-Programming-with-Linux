@@ -66,4 +66,3 @@ int main(void)
 	exit(EXIT_SUCCESS);
 }
 
-/* vi: ts=8 */
